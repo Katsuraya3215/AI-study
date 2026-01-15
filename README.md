@@ -13,3 +13,4 @@ Learning record for becoming an AI engineer (Python &amp; Machine Learning basic
 
 ## 学習状況
 -2026/1/15 :学習開始
+-2026/1/15 :数値表現　数値の演算　変数　変数のルール　（Python入門　基礎文法編02-06)
