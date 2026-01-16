@@ -15,3 +15,7 @@ Learning record for becoming an AI engineer (Python &amp; Machine Learning basic
 -2026/1/15 :学習開始
 -2026/1/15 :数値表現　数値の演算　変数　変数のルール　（Python入門　基礎文法編02-06)
 -2026/1/16 :(Python入門　基礎文法編　07‐12)　値の代入　文字列の表現　文字列の操作　文字列の値に　ユーザーからの入力受付　f文字列のオプション
+2026/1/17 :(Python入門　基礎文法編　13-17) ifの条件分岐　if,else 論理演算子　elifで条件追加　matchで条件分岐　
+
+## 成果物:簡易計算ツール
+-2026/1/17 
