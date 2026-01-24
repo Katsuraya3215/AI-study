@@ -19,8 +19,14 @@ Learning record for becoming an AI engineer (Python &amp; Machine Learning basic
 -2026/1/18 :(Python入門　基礎文法編　18-21) if,elseをまとめて表記　matchとifを同時に　forの反復処理　forとf文字の組み合わせ
 -2026/1/19 :(Python入門　基礎文法編　22-25) forの中でfor　whileの反復処理　常に条件成立するwhile breakとcontinue
 -2026/1/21 :(Python入門　基礎文法編　26-29) 真偽値の使用　エラーメッセージの種類　様々な「例外」 try...except
+>>>
+-2026/1/22 :(Python入門　関数編　01-07) 関数の仕組み　関数を作る　処理の順序　返り値のない関数　関数の挙動　キーワード引数　引数のデフォルト値の設定
+-2026/1/23 :(Python入門　関数編　08-12) 早期return　関数によって処理表記の簡略化　変数のスコープ　関数の挙動の確認　ローカル変数になる条件
+-2026/1/24 :(Python入門　関数編　13-17) globalキーワード使用　globalキーワードを使わずに引数で渡す方法　関数を変数に代入　関数を引数として使う　lambda無明関数
+>>>
 
--2026/1/22 :(Python入門　関数編　01-)
+
+
 
 ## 成果物:簡易計算ツール
 -2026/1/17 
