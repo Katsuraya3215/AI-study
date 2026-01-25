@@ -24,7 +24,8 @@ Learning record for becoming an AI engineer (Python &amp; Machine Learning basic
 -2026/1/23 :(Python入門　関数編　08-12) 早期return　関数によって処理表記の簡略化　変数のスコープ　関数の挙動の確認　ローカル変数になる条件
 -2026/1/24 :(Python入門　関数編　13-17) globalキーワード使用　globalキーワードを使わずに引数で渡す方法　関数を変数に代入　関数を引数として使う　lambda無明関数
 >>>
-
+Python入門　データ構造編
+-2026/1/25 :(01-06) より複雑なデータ型　インデックスの仕組み　appendメソッドで要素追加　リストから要素削除　リストのデータ集計
 
 
 
